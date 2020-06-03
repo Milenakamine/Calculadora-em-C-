@@ -1,0 +1,13 @@
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Calculadora\Calculadora-em-C-\bin\Debug\netcoreapp3.1\Calculadora-em-C-.exe
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Calculadora\Calculadora-em-C-\bin\Debug\netcoreapp3.1\Calculadora-em-C-.deps.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Calculadora\Calculadora-em-C-\bin\Debug\netcoreapp3.1\Calculadora-em-C-.runtimeconfig.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Calculadora\Calculadora-em-C-\bin\Debug\netcoreapp3.1\Calculadora-em-C-.runtimeconfig.dev.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Calculadora\Calculadora-em-C-\bin\Debug\netcoreapp3.1\Calculadora-em-C-.dll
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Calculadora\Calculadora-em-C-\bin\Debug\netcoreapp3.1\Calculadora-em-C-.pdb
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Calculadora\Calculadora-em-C-\obj\Debug\netcoreapp3.1\Calculadora-em-C-.csprojAssemblyReference.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Calculadora\Calculadora-em-C-\obj\Debug\netcoreapp3.1\Calculadora-em-C-.csproj.CoreCompileInputs.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Calculadora\Calculadora-em-C-\obj\Debug\netcoreapp3.1\Calculadora-em-C-.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Calculadora\Calculadora-em-C-\obj\Debug\netcoreapp3.1\Calculadora-em-C-.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Calculadora\Calculadora-em-C-\obj\Debug\netcoreapp3.1\Calculadora-em-C-.dll
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Calculadora\Calculadora-em-C-\obj\Debug\netcoreapp3.1\Calculadora-em-C-.pdb
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Calculadora\Calculadora-em-C-\obj\Debug\netcoreapp3.1\Calculadora-em-C-.genruntimeconfig.cache
